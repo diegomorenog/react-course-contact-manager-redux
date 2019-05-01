@@ -1,0 +1,14 @@
+// Installing & using CLI(command line interface) create react boilerplate
+npm --version
+sudo npm install -g create-react-app
+create-react-app contactmanager
+
+// Start dev server
+npm start
+
+
+// Open directory with Visual Code
+code .
+
+// Deploy app
+npm run build
